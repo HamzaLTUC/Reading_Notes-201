@@ -22,16 +22,24 @@ attributes tell us more information about elements, such as lang, style, src
 `<head >` : contain information about the page .
 `<title>` : title of tab show top of browsers
 
- • DOCTYPE declaration to tell a browser which version of HTML the page is using 
+ • DOCTYPE declaration to tell a browser which version of HTML the page is using .
+ 
  • `<!-- -->`we use it to comment .
 
  • id attribute.  : It is used to uniquely identify that element from others. So we can style it as we want 
+ 
  • Class attribute : identify several elements as being different from the other elements on the page. 
+ 
 • Block elements : elements will always appear to start on a new line in
 the browser window. Such as `<p>` , `<h1>` , `<li>` ,
+
 • Inline elements : which continue on the same line such as `<a>` , `<b>` , `<img>`
-• `<div>`: allows us the group set of elements together in one block-level box
+
+• `<div>`: allows us the group set of elements together in one block-level box.
+
 • The `<span`> tag is an inline container used to mark up a part of a text, or a part of a document.
+
 • `<iframe>` little window that has been cut into your page.
+
 `< meta > ` contain information about webpage . its place inside the head
 
