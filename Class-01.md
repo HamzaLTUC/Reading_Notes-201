@@ -31,6 +31,26 @@ attributes tell us more information about elements, such as lang, style, src
  • Class attribute : identify several elements as being different from the other elements on the page. 
  
 • Block elements : elements will always appear to start on a new line in
+
+
+• The <nav> element is used to contain the major navigational.
+blocks on the site. 
+
+• The <article> element acts as a container for any section of a
+page
+
+ • `<aside>` used as defines some content aside from the content it is placed in. acts as a container
+
+• The `<section>` tag defines a section in a document.
+• The `<figure>` tag specifies self-contained content, like illustrations 
+ the `<figcaption>` element is used to add a caption for the `<figure>` element.
+
+• The `<div>` defines a division or a section in an HTML document.it makes it easier to use attributes, class, or id.
+
+# Chapter 18 : 
+• It talks about steps you need to study before you start to make a webpage like an audience, information organize, design theory, company size, control budget, area, etc...
+• importance of wireframe in organizing the information you need to show.
+
 the browser window. Such as `<p>` , `<h1>` , `<li>` ,
 
 • Inline elements : which continue on the same line such as `<a>` , `<b>` , `<img>`
