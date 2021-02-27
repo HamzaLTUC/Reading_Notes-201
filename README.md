@@ -2,5 +2,5 @@
 
 | Topic      | Link |
 | ---------- | ----------- |
-|   Read: 01 - Introductory HTML and JavaScript          |        |
+|   Read: 01 - Introductory HTML and JavaScript          |   ![Link](  https://hamzaltuc.github.io/Reading_Notes-201/Class-01)   |
 |    |       |
