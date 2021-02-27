@@ -51,15 +51,32 @@ page
 • It talks about steps you need to study before you start to make a webpage like an audience, information organize, design theory, company size, control budget, area, etc...
 • importance of wireframe in organizing the information you need to show.
 
-the browser window. Such as `<p>` , `<h1>` , `<li>` ,
+#  wireframe :
+is a simple sketch of the key information that needs to go on each page of a
+site. It shows the hierarchy of the information
+and how much space it might require.
 
-• Inline elements : which continue on the same line such as `<a>` , `<b>` , `<img>`
 
-• `<div>`: allows us the group set of elements together in one block-level box.
+# JavaScript Summuary 
 
-• The `<span`> tag is an inline container used to mark up a part of a text, or a part of a document.
+JAVASCRIPT is a series of instructions that a computer can follow to achieve a goal; these scripts are made up of instructions a computer can follow step by step. and to write these sccripts we need to state our goal and then set the tasks that needto be completed 
 
-• `<iframe>` little window that has been cut into your page.
+ Browsers may use different parts of the script depending on how the user interacts, It makes the webpage  more interactive by Access and modifying content (text, element, attribute  )
+ And Set up Rules. It is just any language you need to grip vocabulary that the word which computer understands, and the syntax is a set of vocabulary which make instruction.
 
-`< meta > ` contain information about webpage . its place inside the head
+slideshows, forms, reload part of the page, filtering data are Examples of JavaScript in the browser while slideshows can display several different images or HTML pages.
+and forms are validating forms.  
+
+To write a script firstly we need to specify our goal and then list the tasks we need to complete in order. we can follow these steps to make it easier:
+1. Define the goal! 
+2. Design the script
+3. code each step
+
+Every step for every task shown in a flowchart needs to be written in a language that the computer understands and follows. We need to learn to think like a computer because they solve tasks differently than we think!
+
+
+
+
+
+
 
