@@ -1,4 +1,4 @@
-# HTMl Summuary
+# HTML Summuary
 
 All websites use HTML and CCS with some technologies and database and programming language like PHP, ASP, RUPY
 HTML is used to create web pages it’s like a skeleton of it . And CSS uses rules to enable you to control the styling and layout of web pages control things as the color of text, the fonts, size of those fonts, how to add background colors to pages (or parts of a page), and how to add background images.
@@ -23,15 +23,15 @@ attributes tell us more information about elements, such as lang, style, src
 
 
  • DOCTYPE declaration to tell a browser which version of HTML the page is using 
- • `<!-- --> `we use it to comment .
+ • `<!-- -->`we use it to comment .
 
  • id attribute.  : It is used to uniquely identify that element from others. So we can style it as we want 
  • Class attribute : identify several elements as being different from the other elements on the page. 
 • Block elements : elements will always appear to start on a new line in
-the browser window. Such as <p> , <h1> , <li> ,
-• Inline elements : which continue on the same line such as <a> , <b> , <img>
-• <div>: allows us the group set of elements together in one block-level box
-• The <span> tag is an inline container used to mark up a part of a text, or a part of a document.
-• <iframe> little window that has been cut into your page.
-< meta >  contain information about webpage . its place inside the head
+the browser window. Such as `<p>` , `<h1>` , `<li>` ,
+• Inline elements : which continue on the same line such as `<a>` , `<b>` , `<img>`
+• `<div>`: allows us the group set of elements together in one block-level box
+• The `<span`> tag is an inline container used to mark up a part of a text, or a part of a document.
+• `<iframe>` little window that has been cut into your page.
+`< meta > ` contain information about webpage . its place inside the head
 
