@@ -1,7 +1,8 @@
 # Here is some of important tags listed
+
 |Tag| Description|
-|---|------------|
-|h1-h6| h1 for main heading and h2 for subheading and etc..|
+|--------|------------|
+|h1-h6 | h1 for main heading and h2 for subheading and etc..|
 | `<p>` | to create paragraph |
 | `<b>`| make text enclosed  bold |
 |   `<i>` , `<em>`| make text enclosed italic |
