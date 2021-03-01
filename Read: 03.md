@@ -1,4 +1,4 @@
-####  HTML Lists, CSS Boxes, JS Control Flow
+###  HTML Lists, CSS Boxes, JS Control Flow
 
 HTML provides us with three different types of lists:
 
@@ -10,7 +10,7 @@ numbered. we use `<ol>` tag the `<li> `for listing element
 3. Definition lists are made up of a set of terms along with the
 definitions for each of those terms. like `<dt>` , `<dd>` , `<dl>`
 
-####  Boxes 
+###  Boxes 
 Pixles is most popular method to specify the size of boxes 
 because they allow designers to accurately control their size.
 
@@ -37,15 +37,15 @@ Display in CSS there is many options :
 3. inline-block : This causes a block-level element to flow like an inline element, while retaining other 
 features of a block-level element
 
-#### Javascript 
+### Javascript 
 
-##### ARRAYS :
+#### ARRAYS :
 An array is a special type of variable. It doesn't just store one value; it stores a list of values.
 Arrays are especially helpful when you do not know how many items a list will contain.
 
 The values are assigned to the array inside a pair of square brackets with commas betwwen them.
 
-#### Loops 
+### Loops 
 Loops check a condition. if it true a code block will run and then check the condition will be checked again and if still true the code block will run again. it still working until the conditions return false.
 
 there are three common types of loops:
