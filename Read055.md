@@ -29,6 +29,7 @@ The <img> tag has two required attributes:
 
 •	we should save images at the size you will be using them on the web page and in the appropriate format
  
+ ### JPEG & PNG & GIF
 we Use JPEG format for all images that contain a natural scene or photograph where variation in color and intensity is smooth. JPEG images can support around 16 million colours . JPEG images don’t support transparency and are hence not usable for such cases.
 
 a PNG format for any image that needs transparency or for images with text & objects with sharp contrast edges like logos. And GIF format for images that contain animations . PNG images support transparency in two ways
@@ -36,6 +37,7 @@ a PNG format for any image that needs transparency or for images with text & obj
 JPEG is is a lossy compression, doesn’t support transparency, 
 PNG is a lossless image format using. No data is lost during compression and no compression artifacts are introduced in the image its higher quality.
 
+Gif : Stands for "Graphics Interchange Format." GIF is an image file format commonly used for images on the web and sprites in software programs. Unlike the JPEG image format, GIFs uses lossless compression that does not degrade the quality of the image. However, GIFs store image data using indexed color, meaning a standard GIF image can include a maximum of 256 colors.
 
 ### colors:
 Color can bring your pages to life.
