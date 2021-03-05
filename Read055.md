@@ -1,4 +1,4 @@
-### Images :
+## Images :
 
 Images can be used to set the tone for a site in less time than it takes to read a description. is good practice to create a folder for all of the images the site uses. 
 
@@ -29,7 +29,7 @@ The <img> tag has two required attributes:
 
 •	we should save images at the size you will be using them on the web page and in the appropriate format
  
- ### JPEG & PNG & GIF
+ ## JPEG & PNG & GIF
 we Use JPEG format for all images that contain a natural scene or photograph where variation in color and intensity is smooth. JPEG images can support around 16 million colours . JPEG images don’t support transparency and are hence not usable for such cases.
 
 a PNG format for any image that needs transparency or for images with text & objects with sharp contrast edges like logos. And GIF format for images that contain animations . PNG images support transparency in two ways
@@ -39,7 +39,7 @@ PNG is a lossless image format using. No data is lost during compression and no 
 
 Gif : Stands for "Graphics Interchange Format." GIF is an image file format commonly used for images on the web and sprites in software programs. Unlike the JPEG image format, GIFs uses lossless compression that does not degrade the quality of the image. However, GIFs store image data using indexed color, meaning a standard GIF image can include a maximum of 256 colors.
 
-### colors:
+## colors:
 Color can bring your pages to life.
 We can specify any color in CSS in one of three ways: 
 1. RGB
@@ -50,7 +50,7 @@ It is important to ensure that there is enough contrast
 between any text and the background color (otherwise
 people will not be able to read your content).
 
-### Fonts: 
+## Fonts: 
 font-family: allows you to specify the typeface that should be used for any text inside the element(s)
 
 font-size: specify the font size it's expressed in pixel or ems .or percentages.
@@ -78,7 +78,6 @@ text-align: it holds 4 values:
 2. Left
 3. Center
 4. justify
-.
 
 • text-indent property specifies the indentation of the first line in a text block.
  
