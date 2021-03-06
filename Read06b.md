@@ -99,9 +99,12 @@ innerHTML: allows us to access child element and text content.
 
 3.` Appendchild()/removeChild`
 
-**To access or update Attribute values we can use : **
+**To access or update Attribute values we can use:**
 
-has `Attribute()`:check if an attribute exists
+`hasAttribute()`:check if an attribute exists
+
 `getAttribute()`: gets it value
+
 `setAttribute()` : update its value
+
 `removeAttribute()`: remove attribute
