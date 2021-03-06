@@ -86,7 +86,7 @@ if there are siblings.
 
 
 ***Access / Update Text Node:**
-The text inside any element stored as a text node to access the text node we select the element use FirstChild property to get the text node.
+The text inside any element stored as a text node to access the text node ,we select the element use FirstChild property to get the text node.
 
 **Work With HTML:**
 
