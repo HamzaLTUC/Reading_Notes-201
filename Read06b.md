@@ -89,10 +89,11 @@ if there are siblings.
 The text inside any element stored as a text node to access the text node we select the element use FirstChild property to get the text node.
 
 **Work With HTML:**
+
 innerHTML: allows us to access child element and text content.
 
 
-**to create new nodes we can use :**
+**To create new nodes we can use :**
 
 1. `createElement()`
 
