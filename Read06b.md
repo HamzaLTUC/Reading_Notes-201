@@ -28,7 +28,7 @@ There are many common reasons about the hardest thing about writing code :
 6.	simple application and familiarity help us easy to understand, problem domain 
 
 ## Objects:
-An *object is a collection of properties, and a property is an association between a name (or key) and a value. A property's value can be a function, in which case the property is known as a method.
+An object is a collection of properties, and a property is an association between a name (or key) and a value. A property's value can be a function, in which case the property is known as a method.
 
 • we can create objects by literal notation and we can access it using dot notation or square brackets.
 
@@ -38,7 +38,7 @@ to access a property or method we use the name of object followed by period then
 
 
 ## Document Object Mode:
-*It is also called Application program interface (API)
+ It is also called *Application* *program* *interface* (API) 
 
 which Specifies how browsers should create a model of an HTML page and how JavaScript can access and update the contents of a web page while it is in the browser window.
 
