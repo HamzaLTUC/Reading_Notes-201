@@ -61,15 +61,19 @@ Every element, attribute, and piece of text in the HTML is represented by its ow
 2: Use its text content, child elements, and attributes
 
 **we can select individual element node by:**
-1. getElementByID()
-2. querySelector()
+1. `getElementByID()`
+2. `querySelector()`
 
 **We can select multiple elements by:***
-1.getElementByClassName()
-2. getElementByTagName()
-3.querySelectorAll().
+
+1.`getElementByClassName()`
+
+2. `getElementByTagName()`
+ 
+3.`querySelectorAll().`
 
 **we can move from one element node to related element node by:**
+
 1. Parent mode : This property finds the element node for the containing (or parent) element in the HTML
 
 
@@ -88,13 +92,16 @@ innerHTML: allows us to access child element and text content.
 
 
 **to create new nodes we can use :**
-1. createElement()
-2. CreateTextNode()
-3. Appendchild()/removeChild
+
+1. `createElement()`
+
+2. `CreateTextNode()`
+
+3.` Appendchild()/removeChild`
 
 **To access or update Attribute values we can use : **
 
-has Attribute():check if an attribute exists
-getAttribute(): gets it value
-setAttribute() : update its value
-removeAttribute: remove attribute
+has `Attribute()`:check if an attribute exists
+`getAttribute()`: gets it value
+`setAttribute()` : update its value
+`removeAttribute()`: remove attribute
