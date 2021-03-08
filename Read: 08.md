@@ -22,8 +22,10 @@ element as possible. it has many values such s right , left
 • `clear` property : no element (within the same containing element) should touch the left or righthand sides of a box. It can take
  the following value: left ,right ,none, both
 
-types of layout:
+### types of layout:
+
 1.Fixed Width Layouts : do not change size as the user increases or decreases the size of their browser window.
+
 2.Liquid Layouts: its design stretch and contract as the user increases or decreases the size of their browser window.
 
 
