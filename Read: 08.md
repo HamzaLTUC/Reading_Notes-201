@@ -22,6 +22,20 @@ element as possible. it has many values such s right , left
 • `clear` property : no element (within the same containing element) should touch the left or righthand sides of a box. It can take
  the following value: left ,right ,none, both
 
+types of layout:
+1.Fixed Width Layouts : do not change size as the user increases or decreases the size of their browser window.
+2.Liquid Layouts: its design stretch and contract as the user increases or decreases the size of their browser window.
+
+
+• CSS Frameworks : provide  the code for common tasks, such as creating layout grids, styling forms, creating
+printer-friendly versions of pages and so on. You can include the CSS framework code in your projects rather than writing the CSS from scratch.
+
+• Designers keep pages within 960-1000 pixels wide, and indicate what the site is about within the top 600 pixels (to demonstrate its relevance without scrolling).
+
+
+
+
+
 
 
 
