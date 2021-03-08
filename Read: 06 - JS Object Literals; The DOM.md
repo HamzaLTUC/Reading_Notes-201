@@ -45,16 +45,16 @@ For long tables you can split the table into a <thead>,
 
 
 
-#### Functions, Methods, and Objects
+### Functions, Methods, and Objects
 
 • we can use ‘ new ‘ word to create a  new object
 
 • to update value of properties we can use dot notation or square brackets . 
 for example :
 
-hotel.name=’park’
+`hotel.name=’park’`
 Or 
-hotel`[‘name’]`=’park’
+`hotel`[‘name’]`=’park’`
 
 • we can use functions as a template  for creating objects .its  contains statements. In this case, the added  properties or methods to the object.
 
