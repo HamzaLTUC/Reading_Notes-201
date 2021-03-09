@@ -36,19 +36,19 @@ Checked status.
 
 #### Tables properties: 
 
-1. Width: to set width of table.  
+• Width: to set width of table.  
  
-2. padding: to set the space between the border of each table cell and its content.
+• padding: to set the space between the border of each table cell and its content.
  
-3.text-transform to convert the content of the table headers to uppercase.
+ • text-transform to convert the content of the table headers to uppercase.
 
-4. border-top, border-bottom : to set borders above and below the table headers.
+• border-top, border-bottom : to set borders above and below the table headers.
 
-5. text-align to align the writing to the left of some table cells and to the right of the others
+• text-align to align the writing to the left of some table cells and to the right of the others
  
-6. background-color to change alternating table rows.
+• background-color to change alternating table rows.
 
-7. hover to highlight a table row when a user's mouse goes over it
+• hover to highlight a table row when a user's mouse goes over it
 
 
 • We can control Gaps Between Cell using  border-spacing, border-collapse 
