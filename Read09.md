@@ -3,13 +3,13 @@ An HTML form is used to collect user input. The user input is most often sent to
 
 Form Controls:
 
-1.adding text : text, password input, text area.
-2.
-3. Making choices: such as radio button ,checkboxes ,Drop-down boxes .
-4. 
-5.Submititng forms: such as Subscribe , image, button .
+1. adding text: text, password input, text area.
 
-Form Structure:
+1. Making choices: such as radio button ,checkboxes ,Drop-down boxes .
+
+1. Submititng forms: such as Subscribe , image, button .
+
+• Form Structure:
 `<form>` element should always carry the action attribute and will usually have a
 method and id attribute too.
 
@@ -51,7 +51,7 @@ Checked status.
 7. hover to highlight a table row when a user's mouse goes over it
 
 
-•We can control Gaps Between Cell using  border-spacing, border-collapse 
+• We can control Gaps Between Cell using  border-spacing, border-collapse 
 • The cursor property allows you to control the type of mouse cursor that should be displayed
 to users.it has many values ( auto , crosshair, help , wait etc..)
 
@@ -74,8 +74,8 @@ etc
 1. select element
  
 3. Specify event
-4. 
-5. Call code.
+
+4. Call code.
 
 Here is the syntax to bind an event to an element using an event handle:
 
