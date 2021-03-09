@@ -52,6 +52,7 @@ Checked status.
 
 
 • We can control Gaps Between Cell using  border-spacing, border-collapse 
+
 • The cursor property allows you to control the type of mouse cursor that should be displayed
 to users.it has many values ( auto , crosshair, help , wait etc..)
 
