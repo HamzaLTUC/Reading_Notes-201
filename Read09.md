@@ -44,11 +44,11 @@ Checked status.
 
 • border-top, border-bottom : to set borders above and below the table headers.
 
-• text-align to align the writing to the left of some table cells and to the right of the others
+• text-align: to align the writing to the left of some table cells and to the right of the others
  
-• background-color to change alternating table rows.
+• background-color :to change alternating table rows.
 
-• hover to highlight a table row when a user's mouse goes over it
+• hover: to highlight a table row when a user's mouse goes over it
 
 
 • We can control Gaps Between Cell using  border-spacing, border-collapse 
