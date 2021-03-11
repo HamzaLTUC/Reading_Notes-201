@@ -40,8 +40,8 @@ by row.
 a row. (The th stands for table heading.)
 
 
-For long tables you can split the table into a <thead>,
-<tbody>, and <tfoot>
+For long tables you can split the table into a `<thead>`,
+`<tbody>`, and `<tfoot>`
 
 
 
