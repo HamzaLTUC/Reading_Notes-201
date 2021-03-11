@@ -60,7 +60,7 @@ Or
 
 
 
-### Chapter 6 : “Functions, Methods, and Objects”
+### Chapter 6 : “Functions, Methods, and Objects”:
 
 (I skimmed  the whole chapter and copy the  summary) 
 
