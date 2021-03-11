@@ -61,6 +61,7 @@ Or
 
 
 ### Chapter 6 : “Functions, Methods, and Objects”
+
 (I skimmed  the whole chapter and copy the  summary) 
 
 • Functions allow you to group a set of related
