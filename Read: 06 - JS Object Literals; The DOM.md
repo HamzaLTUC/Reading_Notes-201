@@ -45,8 +45,8 @@ For long tables you can split the table into a <thead>,
 
 
 
-### Functions, Methods, and Objects
 
+### Functions, Methods, and Objects
 • we can use ‘ new ‘ word to create a  new object
 
 • to update value of properties we can use dot notation or square brackets . 
@@ -58,12 +58,6 @@ Or
 
 • we can use functions as a template  for creating objects .its  contains statements. In this case, the added  properties or methods to the object.
 
-
-
- 
-### Functions, Methods, and Objects
-
-(I skimmed  the whole chapter and copy the  summary) 
 
 • Functions allow you to group a set of related
 statements together that represent a single task.
