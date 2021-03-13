@@ -28,7 +28,8 @@ b. Eval Context : Text is executed like code in an internal function.
   when JavaScript statement generates an error  then it throws an exception. At that point, the interpreter stops and looks for exception-handling code. 
 
 ### ERROR OBJECTS
-Here is a table which summarize:
+*Here is a table which summarize:*
+
 ![](https://i.ibb.co/dLw6vB2/debegging.png) 
 
 ### How to deal with errors:
@@ -40,7 +41,7 @@ and fix it.
 using try, catch, throw, and finally statements.
 
     
- ###  DEBUGGING WORKFLOW
+ ### DEBUGGING WORKFLOW
  
 1. WHERE IS THE PROBLEM?\
 2.WHAT EXACTLY IS THE PROBLEM?
